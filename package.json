@@ -1,0 +1,20 @@
+{
+  "name": "swisstronik",
+  "version": "1.0.0",
+  "description": "A voting smart contract for swisstronik network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayuba Muazu",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@types/jest": "^29.5.5",
+    "@types/mocha": "^10.0.2",
+    "hardhat": "^2.17.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
