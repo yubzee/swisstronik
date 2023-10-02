@@ -1,4 +1,5 @@
-# Sample Hardhat Project
+# Swisstronik voting contract
+
 
 This project demonstrates creating and deploying a contract to the swisstronik network which is an identity-based hybrid blockchain ecosystem. It comes with a sample SimpleVoting smart contract, a test for that contract, and a script that deploys that contract.
 
